@@ -1,2 +1,3 @@
 # java_02
-test
+unpack zip and run app with:
+java -jar DDSimpleApp.jar
